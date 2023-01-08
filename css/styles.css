@@ -19,6 +19,13 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
 .topContainer {
   background-color: #DEF5E5;
   margin: 0;
@@ -27,14 +34,16 @@ h3 {
 }
 
 .people_icon {
-  height: 250px;
-  width: 250px;
+  width: 25%;
+  float: left;
 }
 
 .tech_icon {
-  height: 250px;
-  width: 250px;
+  width: 25%;
+  float: left;
+  
 }
+
 
 /* .middleContainer {
   
